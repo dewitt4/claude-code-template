@@ -1,0 +1,13 @@
+{
+  "name": "my-project-plugins",
+  "owner": {
+    "name": "Your Organization"
+  },
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "source": "./example-plugin",
+      "description": "Example plugin - replace with your own plugins"
+    }
+  ]
+}
